@@ -26,7 +26,7 @@ Chiffrement WEP
 ![Chiffrement WEP](files/img/Encryption_Wireshark.png)
 
 Chiffrement WEP avec fragmentation
-![Chiffrement WEP avec fragmentation](files/img/EFrag_Wireshark.png)
+![Chiffrement WEP avec fragmentation](files/img/Frag_Wireshark.png)
 
 ## Travail à réaliser
 
